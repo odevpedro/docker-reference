@@ -1,0 +1,22 @@
+docker run: Runs a command in a new container.
+docker start: Starts one or more stopped containers.
+docker stop: Stops one or more running containers.
+docker ps: Lists all running containers.
+docker pull: Pulls an image from a registry.
+docker push: Pushes an image to a registry.
+docker exec: Runs a command in a running container.
+docker build: Builds an image from a Dockerfile.
+docker logs: Shows the logs of a container.
+docker rm: Removes one or more containers.
+docker create: Creates a new container but does not start it
+docker inspect: Return low-level information on a container or image
+docker network: Manage Docker networks
+docker volume: Manage Docker volumes
+docker system: Manage Docker
+docker cp: Copy files/folders between a container and the local filesystem
+docker login: Log in to a Docker registry
+docker logout: Log out from a Docker registry
+docker pause: Pause all processes within one or more containers
+docker unpause: Unpause all processes within one or more containers
+docker events: Get real time events from the server
+docker wait: Block until one or more containers stop, then print their exit codes
